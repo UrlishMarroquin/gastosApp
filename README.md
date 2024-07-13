@@ -1,6 +1,11 @@
-# gastosappg8
+# gastosApp
 
 A new Flutter project.
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="prints/Screenshot_01.png" alt="Pantalla 01" width="300" style="margin-right: 50px;">
+  <img src="prints/Screenshot_02.png" alt="Pantalla 02" width="300" style="margin-right: 50px;">
+</div>
 
 ## Getting Started
 
